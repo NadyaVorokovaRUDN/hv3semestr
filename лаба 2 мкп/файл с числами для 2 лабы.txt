@@ -1,4 +1,4 @@
-t, c	M(t), рад	E(t), рад	Theta(t), рад	
+t, c	M(t), рад	E(t), рад	Teta(t), рад	
 r(t), км	
 V_r(t), м/с	
 V_n(t), м/с	
